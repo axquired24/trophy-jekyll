@@ -3,7 +3,6 @@ layout: post
 title: "Craft Beer"
 date: 2016-09-07
 categories:
-  - Juice
   - Brunch
 description: 
 image: https://unsplash.it/2000/1200?image=1003
